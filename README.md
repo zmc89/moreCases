@@ -13,4 +13,4 @@
 #个人全栈项目
 
 ## hockeyTime
-![avatar](https://amin.bj.bcebos.com/gh_2b0382ca6644_1280%20(1).jpg)
+![avatar](https://amin.bj.bcebos.com/gh_2b0382ca6644_258.jpg)
